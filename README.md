@@ -3,5 +3,5 @@ My goal (as a software engineer with no formal education) is to self study compu
 
 ## [Programming](https://teachyourselfcs.com/#programming)
 - [ ] [Structure and Interpretation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
-* <sub>**Currently working through this book**</sub>
-* <sub>**My solutions are in Scheme**</sub>
+  - Currently working through this book
+  - My solutions are in Scheme

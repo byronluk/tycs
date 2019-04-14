@@ -6,7 +6,7 @@
 ; using good-enough? as our check
 ; (sqrt 0.000001) output --> 0.03126 -- expected --> 0.001
 
-; the good-enough? test won't word for small numbers because it checks for a difference < 0.001
+; the good-enough? test won't work for small numbers because it checks for a difference < 0.001
 ; so it will always return true for small inputs
 
 ; for large numbers there will be a high chance of timing out or hitting a stack overflow

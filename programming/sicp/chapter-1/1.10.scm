@@ -1,4 +1,3 @@
-#lang scheme
 ; The following procedure computes a mathematical function called Ackermann’s function.
 
 (define (A x y)

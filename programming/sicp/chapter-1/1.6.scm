@@ -1,5 +1,3 @@
-#lang scheme
-
 ; When Alyssa uses the custom "new-if" function --which wraps the cond in a function--
 ; application-order evaluation is being used and the parameters of "new-if" are evaluated
 ; so by passing in a recursive call sqrt-iter gets stuck in an infinite loop

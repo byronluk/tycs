@@ -1,7 +1,10 @@
-# My journey working through [Teach Yourself CS](https://teachyourselfcs.com)
-My goal (as a software engineer with no formal education) is to self study computer science so I can become a better software engineer and solve challenging problems.
+# Teach Yourself CS (TYCS)
+https://teachyourselfcs.com/
 
-## [Programming](https://teachyourselfcs.com/#programming)
-- [ ] [Structure and Interpretation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
-  - Currently working through this book
-  - My solutions are in Scheme
+## Objective
+1. Have fun learning cool stuff
+
+## Subjects
+
+### Programming
+[Structure and Interpretation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
